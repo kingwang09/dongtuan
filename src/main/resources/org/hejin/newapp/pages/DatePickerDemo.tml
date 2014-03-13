@@ -1,0 +1,17 @@
+<html t:type="layout" title="Datepicker Demo"
+      t:sidebarTitle="Framework Version"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+        <!-- Most of the page content, including <head>, <body>, etc. tags, comes from Layout.tml -->
+
+    <t:tabgroup>
+    	<t:tab name="first">
+    		<p>First Content!!</p>
+    		<t:form>
+    			<t:textfield t:id="textfield" value="textfield"></t:textfield>
+    		</t:form>
+    	</t:tab>
+    	<t:tab name="second">Second Content</t:tab>
+    </t:tabgroup>
+
+</html>

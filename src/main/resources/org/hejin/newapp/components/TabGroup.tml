@@ -1,0 +1,31 @@
+<t:zone t:id="tabsZone" xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd" xmlns:p="tapestry:parameter">
+<t:body />
+<t:if test="preRender">
+	<ul class="nav nav-${option}">
+        <t:loop source="tabIds" value="tabId" index="tabNum">
+            <li class="${active}">
+                <a href="#${tabId}" data-toggle="tab">${tabLabel}</a>
+            </li>
+        </t:loop>
+    </ul>
+
+    <div class="tab-content">
+        <t:loop source="tabIds" value="tabId" index="tabNum">
+            <div class="tab-pane ${active}" id="${tabId}">
+                <t:delegate to="tabMarkup" />
+            </div>
+        </t:loop>
+    </div>
+
+	<p:else>
+		<ul class="nav nav-${option}">
+	      <t:loop source="tabModels.keySet()" value="currentName">
+	          <li class="${tabClass}">
+	             <t:eventlink event="tabChange" context="currentName" zone="^">${currentLabel}</t:eventlink>
+	          </li>
+	      </t:loop>
+	   </ul>
+	   <t:delegate to="activeTabBody" />
+	</p:else>
+</t:if>
+</t:zone>
