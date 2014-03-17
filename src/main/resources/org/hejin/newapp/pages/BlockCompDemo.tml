@@ -1,0 +1,22 @@
+<html t:type="layout" title="BlockComponent Demo"
+      t:sidebarTitle="Framework Version"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+	
+	<t:tabgroup preRender="true">
+		<t:tab name="panelComponent" label="Panel Comp Demo">
+			<t:panel option="primary">
+				<p:header>
+					<i class="glyphicon glyphicon-cloud"></i>Block Component Header.
+				</p:header>
+				Content Page..
+				<p:footer>Block Footer.</p:footer>
+			</t:panel>	
+		</t:tab>
+		<t:tab name="modalComponent" label="Modal Comp Demo">
+			2
+		</t:tab>
+	</t:tabgroup>
+	    
+
+</html>

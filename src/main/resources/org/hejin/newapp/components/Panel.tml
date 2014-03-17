@@ -1,0 +1,16 @@
+<t:container xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd" xmlns:p="tapestry:parameter">
+<div class="panel panel-${option}">
+  <div class="panel-heading">
+  	<t:delegate to="header"></t:delegate>
+  </div>
+  <div class="panel-body">
+    <!-- <t:delegate to="content"></t:delegate> -->
+    <t:body></t:body>
+  </div>
+  
+  <t:if test="footer">
+  	<div class="panel-footer"><t:delegate to="footer"></t:delegate></div> 
+  </t:if>
+</div>
+
+</t:container>
