@@ -1,0 +1,33 @@
+<html t:type="layout" title="About newapp"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About Modal Demo application ...</p>
+	<!-- Button trigger modal -->
+	
+	
+	<t:tabgroup>
+		<t:tab name="simpleModal1" label="Simple Modal1">
+			<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+	 	 		Launch demo modal
+			</button>
+			<t:modal t:modalId="myModal"></t:modal>	
+		</t:tab>
+		
+		<t:tab name="simpleModal2" label="Simple Modal2">
+			<t:modallink className="btn btn-primary btn-sm" dialogId="myModal">Launch demo modal</t:modallink>
+			<t:modal t:modalId="myModal">
+				<p:header><i class="glyphicon glyphicon-off"></i>Modal Header</p:header>
+				
+				<t:form>
+					<t:textfield t:id="firstName"></t:textfield>
+					<t:submit></t:submit>
+				</t:form>
+				
+				
+				<p:footer><i class="glyphicon glyphicon-plane"></i>Modal Footer</p:footer>
+			</t:modal>	
+		</t:tab>
+	</t:tabgroup>
+	
+</html>

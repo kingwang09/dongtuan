@@ -7,7 +7,18 @@
     <p>${message:greeting}</p>
 
     <p>The current time is: <strong>${currentTime}</strong></p>
-
+    
+    <div class="panel panel-info" >
+    	<div class="panel panel-heading">Page Name's</div>
+    	<div class="panel panel-content">
+	    	<div t:type="loop" t:source="pageLinks" t:value="pageName">
+	    		<t:eventlink t:event="loadPage" t:context="pageName">${pageName}</t:eventlink>
+	    	</div>
+    	</div>
+    </div>
+	<ul>
+	
+	</ul>
     <!-- A Zone is a component that can be updated in place, triggered by other components. -->
     <t:zone t:id="zone">
         <p>

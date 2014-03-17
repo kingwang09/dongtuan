@@ -1,0 +1,5 @@
+<t:container xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd" xmlns:p="tapestry:parameter">
+<a href="#" class="${className}" data-toggle="modal" data-target="#${dialogId}">
+	<t:body></t:body>
+</a>
+</t:container>

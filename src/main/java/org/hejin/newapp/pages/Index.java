@@ -1,9 +1,12 @@
 package org.hejin.newapp.pages;
 
+import java.util.Collection;
 import java.util.Date;
 import org.apache.tapestry5.annotations.*;
 import org.apache.tapestry5.ioc.annotations.*;
+import org.apache.tapestry5.services.ComponentClassResolver;
 import org.apache.tapestry5.corelib.components.*;
+import org.apache.tapestry5.ComponentResources;
 import org.apache.tapestry5.SymbolConstants;
 import org.apache.tapestry5.alerts.AlertManager;
 
@@ -46,5 +49,22 @@ public class Index
         alertManager.info("Increment (via Ajax) clicked");
 
         return zone;
+    }
+    
+    
+    @Inject
+    ComponentResources resources;
+    @Property
+    String pageName;
+    
+    @Inject
+	private ComponentClassResolver componentClassResolver;
+    public Collection<String> getPageLinks(){
+    	return componentClassResolver.getPageNames();
+    }
+    
+    @OnEvent("loadPage")
+    String loadPage(String pageName){
+    	return pageName;
     }
 }
