@@ -1,0 +1,22 @@
+<html xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+	
+<t:block id="sampleBlock1">
+	<div class="well well-sm">
+		<i class="glyphicon glyphicon-pencil"></i> Sample Block1
+	</div>
+</t:block>	
+
+<t:block id="sampleBlock2">
+	<div class="well well-sm">
+		<i class="glyphicon glyphicon glyphicon-th"></i> Sample Block2
+	</div>
+</t:block>
+
+<t:block id="sampleBlock3">
+	<div class="well well-sm">
+		<i class="glyphicon glyphicon glyphicon-barcode"></i> Sample Block3
+	</div>
+</t:block>
+
+</html>

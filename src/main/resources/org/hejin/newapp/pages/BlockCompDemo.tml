@@ -13,8 +13,23 @@
 				<p:footer>Block Footer.</p:footer>
 			</t:panel>	
 		</t:tab>
-		<t:tab name="modalComponent" label="Modal Comp Demo">
-			2
+		<t:tab name="dynamicBlock1" label="dynamic Pluggable1">
+			<t:eventlink t:id="alertMessage" context="literal:Hello!!">call alertManager</t:eventlink>
+			<br/>
+			<t:loop source="blocks" value="blockId">
+				<div>
+					<t:eventlink t:id="loadBlock" context="blockId" t:zone="blockZone">${blockId}</t:eventlink>
+				</div>
+			</t:loop>
+			<t:zone t:id="blockZone">
+				<t:delegate to="activeBlock"></t:delegate>
+			</t:zone>
+		</t:tab>
+		
+		<t:tab name="dynamicBlock2" label="dynamic Pluggable2">
+			<t:loop source="blocks" value="blockId">
+				<t:delegate to="activeBlock2"></t:delegate>
+			</t:loop>
 		</t:tab>
 	</t:tabgroup>
 	    

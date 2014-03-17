@@ -3,15 +3,23 @@ package org.hejin.newapp.services;
 import java.io.IOException;
 
 import org.apache.tapestry5.*;
+import org.apache.tapestry5.ioc.Configuration;
 import org.apache.tapestry5.ioc.MappedConfiguration;
 import org.apache.tapestry5.ioc.OrderedConfiguration;
 import org.apache.tapestry5.ioc.ServiceBinder;
+import org.apache.tapestry5.ioc.annotations.Contribute;
 import org.apache.tapestry5.ioc.annotations.Local;
 import org.apache.tapestry5.services.Request;
 import org.apache.tapestry5.services.RequestFilter;
 import org.apache.tapestry5.services.RequestHandler;
 import org.apache.tapestry5.services.Response;
+import org.hejin.newapp.model.PluggableBlock;
+import org.hejin.newapp.model.PluggableBlockImpl;
+import org.hejin.newapp.services.internal.BlockSource;
+import org.hejin.newapp.services.internal.BlockSourceImpl;
 import org.slf4j.Logger;
+
+
 
 /**
  * This module is automatically included as part of the Tapestry IoC Registry, it's a good place to
@@ -27,6 +35,7 @@ public class AppModule
         // Use service builder methods (example below) when the implementation
         // is provided inline, or requires more initialization than simply
         // invoking the constructor.
+    	binder.bind(BlockSource.class, BlockSourceImpl.class).withId("BlockSource");
     }
 
     public static void contributeFactoryDefaults(
@@ -115,4 +124,12 @@ public class AppModule
 
         configuration.add("Timing", filter);
     }
+    
+    
+    @Contribute(BlockSource.class)
+	public static void contributeResourceDetailViewBlockSource(Configuration<PluggableBlock> configuration) {
+    	configuration.add(new PluggableBlockImpl("block1","PluggableBlocks","sampleBlock1"));
+    	configuration.add(new PluggableBlockImpl("block2","PluggableBlocks","sampleBlock2"));
+    	configuration.add(new PluggableBlockImpl("block3","PluggableBlocks","sampleBlock3"));
+	}
 }
