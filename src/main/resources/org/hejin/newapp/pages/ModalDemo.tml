@@ -19,11 +19,14 @@
 			<t:modal t:modalId="myModal">
 				<p:header><i class="glyphicon glyphicon-off"></i>Modal Header</p:header>
 				
-				<t:form>
-					<t:textfield t:id="firstName"></t:textfield>
-					<t:submit></t:submit>
-				</t:form>
-				
+				<t:zone t:id="modalZone">
+					<t:form t:zone="^">
+						<t:textfield t:id="firstName"></t:textfield>
+						<t:submit></t:submit>
+					</t:form>
+					
+					<div class="well well-sm">First Name = ${firstName}</div>
+				</t:zone>
 				
 				<p:footer><i class="glyphicon glyphicon-plane"></i>Modal Footer</p:footer>
 			</t:modal>	
