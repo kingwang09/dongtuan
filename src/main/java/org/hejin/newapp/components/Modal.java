@@ -19,6 +19,10 @@ public class Modal {
 	
 	@Property
 	@Parameter
+	Block content;
+	
+	@Property
+	@Parameter
 	Block footer;
 	
 	@Property

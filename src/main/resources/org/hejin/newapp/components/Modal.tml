@@ -10,14 +10,16 @@
         </h4>
       </div>
       <div class="modal-body">
-        <t:body></t:body>
+        <t:delegate to="content"></t:delegate>
       </div>
-      <div class="modal-footer">
-      	<t:delegate to="footer"></t:delegate>
-        <button type="button" class="btn btn-default" data-dismiss="modal">${close}</button>
-      </div>
+	  <div class="modal-footer">
+	      <t:if test="footer">
+	      	<t:delegate to="footer"></t:delegate>
+	        <button type="button" class="btn btn-default" data-dismiss="modal">${close}</button>
+		  </t:if>
+	   </div>
+      
     </div>
   </div>
 </div>
-
 </t:container>

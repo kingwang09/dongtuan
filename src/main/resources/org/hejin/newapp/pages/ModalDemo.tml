@@ -18,17 +18,17 @@
 			<t:modallink className="btn btn-primary btn-sm" dialogId="myModal">Launch demo modal</t:modallink>
 			<t:modal t:modalId="myModal">
 				<p:header><i class="glyphicon glyphicon-off"></i>Modal Header</p:header>
-				
-				<t:zone t:id="modalZone">
-					<t:form t:zone="^">
-						<t:textfield t:id="firstName"></t:textfield>
-						<t:submit></t:submit>
-					</t:form>
-					
-					<div class="well well-sm">First Name = ${firstName}</div>
-				</t:zone>
-				
-				<p:footer><i class="glyphicon glyphicon-plane"></i>Modal Footer</p:footer>
+				<p:content>
+					<t:zone t:id="modalZone">
+						<t:form t:zone="^">
+							<t:textfield t:id="firstName"></t:textfield>
+							<div class="well well-sm">First Name = ${firstName}</div>
+							
+							<button type="button" class="btn btn-default pull-right" data-dismiss="modal">Close</button>
+							<t:submit class="btn btn-primary btn-default pull-right"></t:submit>
+						</t:form>
+					</t:zone>
+				</p:content>
 			</t:modal>	
 		</t:tab>
 	</t:tabgroup>
