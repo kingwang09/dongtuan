@@ -7,21 +7,23 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+import lombok.Getter;
+import lombok.Setter;
+
 @Entity
 @Table(name="TB_USER")
 public class User {
 	
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
+	@Getter
 	private Integer id;
 	
-	@Column
+	@Getter @Setter
 	private String userId;
-	
-	@Column
+	@Getter @Setter
 	private String name;
-	
-	@Column
+	@Getter @Setter
 	private String address;
 	
 	public User() {
@@ -35,27 +37,6 @@ public class User {
 		this.address = address;
 	}
 	
-	public String getUserId() {
-		return userId;
-	}
-	public void setUserId(String userId) {
-		this.userId = userId;
-	}
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
-	public String getAddress() {
-		return address;
-	}
-	public void setAddress(String address) {
-		this.address = address;
-	}
-	public Integer getId() {
-		return id;
-	}
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

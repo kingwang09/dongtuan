@@ -8,7 +8,7 @@
         <!-- The only significant configuration for Tapestry 5, this informs Tapestry
 of where to look for pages, components and mixins. -->
         <param-name>tapestry.app-package</param-name>
-        <param-value>org.hejin.newapp</param-value>
+        <param-value>org.hejin.newapp.web</param-value>
     </context-param>
     <!--
     Specify some additional Modules for two different execution
@@ -18,28 +18,32 @@ of where to look for pages, components and mixins. -->
     <context-param>
         <param-name>tapestry.development-modules</param-name>
         <param-value>
-            org.hejin.newapp.services.DevelopmentModule
+            org.hejin.newapp.web.services.DevelopmentModule
         </param-value>
     </context-param>
     <context-param>
         <param-name>tapestry.qa-modules</param-name>
         <param-value>
-            org.hejin.newapp.services.QaModule
+            org.hejin.newapp.web.services.QaModule
         </param-value>
     </context-param>
     
+    
+    <context-param>
+    	<param-name>contextConfigLocation</param-name>
+    	<param-value>classpath*:META-INF/spring/applicationContext*.xml</param-value>
+    </context-param>
     <!-- 
     <filter>
         <filter-name>app</filter-name>
         <filter-class>org.apache.tapestry5.TapestryFilter</filter-class>
     </filter>
+    <filter-mapping>
+        <filter-name>app</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
      -->
-    <context-param>
-    	<param-name>contextConfigLocation</param-name>
-    	<param-value>classpath*:META-INF/spring/applicationContext*.xml</param-value>
-    </context-param>
-    
-    <!-- OpenSessionInViewFilter는 뭐지? -->
+    <!-- OpenSessionInViewFilter는 뭐지?
     <filter>
     	<filter-name>openSessionInViewFilter</filter-name>
     	<filter-class>org.springframework.orm.hibernate4.support.OpenSessionInViewFilter</filter-class>
@@ -49,7 +53,7 @@ of where to look for pages, components and mixins. -->
     	<filter-name>openSessionInViewFilter</filter-name>
     	<url-pattern>/*</url-pattern>
     </filter-mapping>
-    
+    -->
     <filter>
     	<filter-name>app</filter-name>
     	<filter-class>org.apache.tapestry5.spring.TapestrySpringFilter</filter-class>

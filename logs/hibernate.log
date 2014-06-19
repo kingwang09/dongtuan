@@ -1,0 +1,404 @@
+[2014-06-19 18:24:16] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 18:24:16] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 18:24:16] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 18:24:16] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 18:24:17] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 18:24:17] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 18:24:17] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 18:24:17] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 18:24:17] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 18:24:17] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 18:24:17] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 18:24:17] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 18:24:17] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 18:24:17] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 18:24:17] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 18:24:17] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 18:24:17] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 18:24:17] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 18:24:17] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:16:30] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:16:30] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:16:30] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:16:30] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:16:35] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:16:35] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:16:35] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:16:35] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:16:35] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:16:35] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:16:35] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:16:35] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:16:35] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:16:35] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:16:35] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:16:35] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:16:35] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:16:35] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:16:35] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:17:34] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:17:34] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:17:34] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:17:34] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:17:39] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:17:39] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:17:39] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:17:39] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:17:39] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:17:39] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:17:39] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:17:39] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:17:39] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:17:39] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:17:39] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:17:39] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:17:39] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:17:39] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:17:39] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:19:19] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:19:19] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:19:19] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:19:19] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:19:24] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:19:24] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:19:24] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:19:24] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:19:24] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:19:24] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:19:24] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:19:24] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:19:24] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:19:24] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:19:24] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:19:24] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:19:24] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:19:24] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:19:24] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:32:42] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:32:42] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:32:42] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:32:42] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:32:46] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:32:46] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:32:46] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:32:46] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:32:46] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:32:46] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:32:46] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:32:47] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:32:47] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:32:47] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:32:47] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:32:47] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:32:47] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:32:47] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:32:47] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:33:51] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:33:51] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:33:51] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:33:51] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:33:56] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:33:56] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:33:56] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:33:56] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:33:56] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:33:56] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:33:56] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:33:56] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:33:56] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:33:56] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:33:56] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:33:56] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:33:56] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:33:56] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:33:56] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:34:50] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:34:50] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:34:50] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:34:50] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:34:55] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:34:55] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:34:55] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:34:55] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:34:55] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:34:55] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:34:55] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:34:55] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:34:55] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:34:55] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:34:55] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:34:55] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:34:55] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:34:55] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:34:55] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 19:59:32] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 19:59:32] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 19:59:32] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 19:59:32] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 19:59:37] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 19:59:37] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 19:59:37] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 19:59:37] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 19:59:37] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 19:59:37] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 19:59:37] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 19:59:37] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 19:59:37] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 19:59:37] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 19:59:37] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 19:59:37] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 19:59:37] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 19:59:37] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 19:59:37] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:17:25] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:17:25] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:17:25] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:17:25] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:17:29] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:17:29] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:17:29] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:17:30] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:17:30] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:17:30] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:17:30] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:17:30] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:17:30] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:17:30] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:17:30] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:17:30] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:17:30] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:17:30] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:17:30] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:18:20] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:18:20] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:18:20] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:18:20] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:18:24] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:18:25] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:18:25] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:18:25] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:18:25] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:18:25] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:18:25] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:18:25] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:18:25] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:18:25] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:18:25] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:18:25] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:18:25] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:18:25] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:18:25] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:20:24] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:20:24] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:20:24] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:20:24] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:20:30] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:20:30] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:20:30] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:20:30] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:20:30] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:20:30] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:20:30] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:20:30] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:20:30] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:20:30] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:20:30] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:20:30] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:20:30] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:20:30] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:20:30] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:37:19] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:37:19] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:37:19] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:37:19] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:37:23] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:37:23] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:37:23] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:37:23] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:37:23] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:37:23] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:37:23] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:37:24] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:37:24] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:37:24] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:37:24] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:37:24] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:37:24] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:37:24] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:37:24] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:41:21] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:41:21] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:41:21] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:41:21] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:41:26] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:41:26] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:41:26] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:41:26] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:41:26] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:41:26] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:41:26] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:41:26] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:41:26] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:41:26] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:41:26] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:41:26] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:41:26] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:41:26] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:41:26] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:58:16] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:58:16] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:58:16] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:58:16] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:58:16] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:58:16] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:58:16] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:58:17] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:58:17] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:58:17] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:58:17] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:58:17] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:58:17] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:58:17] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:58:17] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:58:17] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:58:17] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:58:17] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:58:17] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 20:59:14] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 20:59:14] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 20:59:14] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 20:59:14] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 20:59:18] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 20:59:18] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 20:59:18] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 20:59:19] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 20:59:19] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 20:59:19] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 20:59:19] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 20:59:19] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 20:59:19] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 20:59:19] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.CMM_BOARD
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:67] HHH000037: Columns: [content, id, mdate, title, wdate]
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_9]
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 20:59:19] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 20:59:19] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 21:00:35] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 21:00:35] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 21:00:35] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 21:00:35] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 21:00:35] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 21:00:36] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 21:00:36] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 21:00:36] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 21:00:36] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 21:00:36] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 21:00:36] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 21:00:36] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 21:00:36] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 21:00:36] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.CMM_BOARD
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:67] HHH000037: Columns: [content, id, mdate, title, wdate]
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_9]
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:00:36] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 21:00:36] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 21:01:21] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 21:01:21] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 21:01:21] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 21:01:21] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 21:01:22] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 21:01:22] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 21:01:22] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 21:01:22] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 21:01:22] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 21:01:22] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 21:01:22] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 21:01:22] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 21:01:22] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 21:01:22] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.CMM_BOARD
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:67] HHH000037: Columns: [content, id, mdate, title, wdate]
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_9]
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:01:23] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 21:01:23] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 21:11:17] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 21:11:17] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 21:11:17] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 21:11:17] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 21:11:17] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 21:11:17] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 21:11:17] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 21:11:18] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 21:11:18] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 21:11:18] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 21:11:18] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 21:11:18] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 21:11:18] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 21:11:18] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.CMM_BOARD
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:67] HHH000037: Columns: [content, id, mdate, title, wdate]
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_9]
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:11:18] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 21:11:18] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 21:12:20] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 21:12:20] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 21:12:20] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 21:12:21] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 21:12:21] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 21:12:21] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 21:12:21] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 21:12:21] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 21:12:21] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 21:12:21] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 21:12:21] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 21:12:22] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 21:12:22] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 21:12:22] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.CMM_BOARD
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:67] HHH000037: Columns: [content, id, mdate, title, wdate]
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_9]
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:12:22] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 21:12:22] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete
+[2014-06-19 21:13:52] INFO  [Version.java:37] HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+[2014-06-19 21:13:52] INFO  [Version.java:41] HHH000412: Hibernate Core {4.2.12.Final}
+[2014-06-19 21:13:52] INFO  [Environment.java:238] HHH000206: hibernate.properties not found
+[2014-06-19 21:13:52] INFO  [Environment.java:345] HHH000021: Bytecode provider name : javassist
+[2014-06-19 21:13:53] INFO  [Dialect.java:130] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[2014-06-19 21:13:53] INFO  [TransactionFactoryInitiator.java:68] HHH000399: Using default transaction strategy (direct JDBC transactions)
+[2014-06-19 21:13:53] INFO  [ASTQueryTranslatorFactory.java:48] HHH000397: Using ASTQueryTranslatorFactory
+[2014-06-19 21:13:53] INFO  [UpdateTimestampsCache.java:62] HHH000250: Starting update timestamps cache at region: org.hibernate.cache.spi.UpdateTimestampsCache
+[2014-06-19 21:13:53] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+[2014-06-19 21:13:53] INFO  [StandardQueryCache.java:86] HHH000248: Starting query cache at region: org.hibernate.cache.internal.StandardQueryCache
+[2014-06-19 21:13:53] WARN  [AbstractEhcacheRegionFactory.java:180] HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+[2014-06-19 21:13:53] INFO  [SchemaUpdate.java:182] HHH000228: Running hbm2ddl schema update
+[2014-06-19 21:13:53] INFO  [SchemaUpdate.java:193] HHH000102: Fetching database metadata
+[2014-06-19 21:13:53] INFO  [SchemaUpdate.java:205] HHH000396: Updating schema
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.CMM_BOARD
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:67] HHH000037: Columns: [content, id, mdate, title, wdate]
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_9]
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:66] HHH000261: Table found: HEJIN.PUBLIC.TB_USER
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:67] HHH000037: Columns: [id, address, name, userid]
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:69] HHH000108: Foreign keys: []
+[2014-06-19 21:13:53] INFO  [TableMetadata.java:70] HHH000126: Indexes: [primary_key_d]
+[2014-06-19 21:13:53] INFO  [SchemaUpdate.java:242] HHH000232: Schema update complete

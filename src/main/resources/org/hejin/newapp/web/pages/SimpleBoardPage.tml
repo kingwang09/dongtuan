@@ -1,0 +1,7 @@
+<html t:type="defaultLayout" title="About newapp"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>Simple Board Page</p>
+	<t:board.simpleBoard />
+</html>

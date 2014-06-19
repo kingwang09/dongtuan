@@ -1,0 +1,1010 @@
+[2014-06-19 18:11:16] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 18:11:36] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 18:11:37] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:86)
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 1999 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 17 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 12 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 7 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 7 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 15 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 20 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 5 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 11 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 12 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 14 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 20 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 23 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 11 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 7 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 5 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 4 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 4 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 8 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 16 ms
+[2014-06-19 18:11:39] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 39 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 62 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 4 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:54] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] DEBUG [ModuleImpl.java:253] Creating proxy for service BlockSource
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 11 ms
+[2014-06-19 18:11:55] DEBUG [TabGroup.java:167] [TabGroup] beginRender.
+[2014-06-19 18:11:55] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:11:55] DEBUG [Tab.java:60] [Tab] preRender = true
+[2014-06-19 18:11:55] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:11:55] DEBUG [Tab.java:60] [Tab] preRender = true
+[2014-06-19 18:11:55] DEBUG [AbstractReloadableObjectCreator.java:150] Loading class org.hejin.newapp.services.internal.BlockSourceImpl.
+[2014-06-19 18:11:55] DEBUG [AbstractReloadableObjectCreator.java:177] Marking class org.hejin.newapp.services.internal.BlockSourceImpl to be (re-)loaded
+[2014-06-19 18:11:55] DEBUG [AbstractReloadableObjectCreator.java:190] BEGIN Analyzing org.hejin.newapp.services.internal.BlockSourceImpl
+[2014-06-19 18:11:55] DEBUG [AbstractReloadableObjectCreator.java:205]   END Analyzing org.hejin.newapp.services.internal.BlockSourceImpl
+[2014-06-19 18:11:55] DEBUG [RegistryImpl.java:615] Invoking org.hejin.newapp.services.AppModule.contributeResourceDetailViewBlockSource(Configuration) (at AppModule.java:131)
+[2014-06-19 18:11:55] DEBUG [PluggableBlockImpl.java:19] [PluggableBlockImpl] PluggableBlockImpl(String pageName, String blockName).
+[2014-06-19 18:11:55] DEBUG [PluggableBlockImpl.java:19] [PluggableBlockImpl] PluggableBlockImpl(String pageName, String blockName).
+[2014-06-19 18:11:55] DEBUG [PluggableBlockImpl.java:19] [PluggableBlockImpl] PluggableBlockImpl(String pageName, String blockName).
+[2014-06-19 18:11:55] DEBUG [ServiceResourcesImpl.java:105] Constructed configuration: [org.hejin.newapp.model.PluggableBlockImpl@28b2311b, org.hejin.newapp.model.PluggableBlockImpl@4ab5f87c, org.hejin.newapp.model.PluggableBlockImpl@70ccbb35]
+[2014-06-19 18:11:55] DEBUG [LoggingInvokableWrapper.java:40] Invoking constructor public org.hejin.newapp.services.internal.BlockSourceImpl(org.apache.tapestry5.services.ComponentSource,java.util.Collection) (for service 'BlockSource')
+[2014-06-19 18:11:55] DEBUG [BlockSourceImpl.java:26] [BlockSource] BlockSourceImpl Initialize.
+[2014-06-19 18:11:55] DEBUG [BlockSourceImpl.java:31] [BlockSource] pluggableBlocksMap = {block1=org.hejin.newapp.model.PluggableBlockImpl@28b2311b, block2=org.hejin.newapp.model.PluggableBlockImpl@4ab5f87c, block3=org.hejin.newapp.model.PluggableBlockImpl@70ccbb35}
+[2014-06-19 18:11:55] DEBUG [BlockCompDemo.java:63] [BlockCompDemo - getActiveBlock] activeBlockId = null
+[2014-06-19 18:11:55] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:11:55] DEBUG [Tab.java:60] [Tab] preRender = true
+[2014-06-19 18:11:55] DEBUG [BlockCompDemo.java:71] [BlockCompDemo - getActiveBlock2] blockId = block1
+[2014-06-19 18:11:55] DEBUG [BlockCompDemo.java:71] [BlockCompDemo - getActiveBlock2] blockId = block2
+[2014-06-19 18:11:55] DEBUG [BlockCompDemo.java:71] [BlockCompDemo - getActiveBlock2] blockId = block3
+[2014-06-19 18:11:55] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = true
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 287 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 4 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:55] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:56] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:56] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:56] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:56] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:11:56] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:56] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:11:59] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:02] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:02] INFO  [AppModule.java:104] Request time: 39 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:03] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:04] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 5 ms
+[2014-06-19 18:12:06] DEBUG [TabGroup.java:167] [TabGroup] beginRender.
+[2014-06-19 18:12:06] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:06] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:06] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:06] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:06] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 241 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:06] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:07] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:07] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:07] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:08] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:08] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 18:12:08] INFO  [AppModule.java:104] Request time: 368 ms
+[2014-06-19 18:12:08] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:08] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:08] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:08] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:08] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 18:12:08] INFO  [AppModule.java:104] Request time: 6 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:12] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 5 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:40] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:12:42] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 8 ms
+[2014-06-19 18:12:44] DEBUG [DatePickerDemo.java:17] DatePicker Demo!!
+[2014-06-19 18:12:44] DEBUG [TabGroup.java:167] [TabGroup] beginRender.
+[2014-06-19 18:12:44] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:44] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:44] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:44] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:44] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 50 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:44] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:46] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:46] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:46] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:46] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:46] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 18:12:46] INFO  [AppModule.java:104] Request time: 17 ms
+[2014-06-19 18:12:46] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:46] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:46] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 18:12:46] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 18:12:46] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 18:12:46] INFO  [AppModule.java:104] Request time: 6 ms
+[2014-06-19 18:12:49] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:49] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:12:50] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:13:51] INFO  [AppModule.java:104] Request time: 75 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 913 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 4 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 3 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 5 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 1 ms
+[2014-06-19 18:13:52] INFO  [AppModule.java:104] Request time: 0 ms
+[2014-06-19 18:21:49] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 18:24:15] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 18:24:28] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 18:24:28] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:86)
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 1809 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 12 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 15 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 9 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 11 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 9 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 11 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 18:24:30] INFO  [AppModule.java:104] Request time: 2 ms
+[2014-06-19 19:16:29] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:16:37] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:16:37] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:16:39] INFO  [AppModule.java:105] Request time: 1575 ms
+[2014-06-19 19:17:21] INFO  [AppModule.java:105] Request time: 18 ms
+[2014-06-19 19:17:33] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:17:52] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:17:52] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:17:54] INFO  [AppModule.java:105] Request time: 2195 ms
+[2014-06-19 19:19:18] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:20:37] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:20:37] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 1880 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 9 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 13 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:20:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:20:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:20:46] INFO  [AppModule.java:105] Request time: 20 ms
+[2014-06-19 19:32:40] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:32:53] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:32:53] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:32:55] INFO  [AppModule.java:105] Request time: 1230 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:32:56] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 69 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:37] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:38] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 50 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 10 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 9 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:39] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:33:50] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:34:12] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:34:12] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:34:14] INFO  [AppModule.java:105] Request time: 2104 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 9 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 9 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:15] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:49] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:34:56] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:34:56] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 1839 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 10 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:34:58] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 32 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 182 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:05] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:08] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:40] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:35:41] DEBUG [DatePickerDemo.java:17] DatePicker Demo!!
+[2014-06-19 19:35:41] DEBUG [TabGroup.java:167] [TabGroup] beginRender.
+[2014-06-19 19:35:41] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 19:35:41] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 19:35:41] DEBUG [Tab.java:58] [Tab] beforeRenderBody.
+[2014-06-19 19:35:41] DEBUG [Tab.java:60] [Tab] preRender = false
+[2014-06-19 19:35:41] DEBUG [TabGroup.java:173] [TabGroup] afterRender. preRender = false
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 421 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:41] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:35:42] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:42] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:42] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:42] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:35:42] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:42] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:35:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:02] INFO  [AppModule.java:105] Request time: 74 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 562 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:03] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 379 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:20] INFO  [AppModule.java:105] Request time: 217 ms
+[2014-06-19 19:36:21] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 19:36:24] INFO  [AppModule.java:105] Request time: 27 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:25] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:36:38] INFO  [AppModule.java:105] Request time: 265 ms
+[2014-06-19 19:36:38] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:36:38] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:37:00] INFO  [AppModule.java:105] Request time: 12 ms
+[2014-06-19 19:37:08] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:37:22] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 17 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 13 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:17] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:31] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 19:59:38] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 19:59:38] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 19:59:39] INFO  [AppModule.java:105] Request time: 1836 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 22 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 32 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 10 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 24 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:40] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 19:59:42] INFO  [AppModule.java:105] Request time: 36 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 434 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 19:59:43] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 53 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:00:28] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 54 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:23] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:24] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:24] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:24] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:24] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:24] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:24] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 52 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 20:01:26] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:01:27] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 64 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 54 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 37 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:28] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 41 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:01:29] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:23] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 20:17:31] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 20:17:31] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 2171 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:17:33] INFO  [AppModule.java:105] Request time: 9 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 88 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:05] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 39 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 13 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 11 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 14 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:18:06] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:18:18] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 20:20:23] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 20:23:06] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 20:23:06] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:87)
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 1711 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 22 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 22 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 15 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 14 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 9 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 1 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 7 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 0 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 8 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 2 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 6 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 4 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 5 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:23:08] INFO  [AppModule.java:105] Request time: 3 ms
+[2014-06-19 20:37:17] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 20:37:28] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 20:37:28] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.web.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:92)
+[2014-06-19 20:37:28] INFO  [AppModule.java:110] Request time: 213 ms
+[2014-06-19 20:37:34] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:19] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 20:41:33] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 20:41:33] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.web.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:92)
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 1677 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 5 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 3 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 3 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 3 ms
+[2014-06-19 20:41:34] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 9 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:35] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 31 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 15 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:44] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:56] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 20:41:56] INFO  [AppModule.java:110] Request time: 105 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 20:41:57] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 20:58:17] DEBUG [BoardTest.java:47] after Save : 
+[2014-06-19 20:58:17] DEBUG [BoardTest.java:50] after select : 
+[2014-06-19 20:59:19] DEBUG [BoardTest.java:47] after Save : 
+[2014-06-19 20:59:19] DEBUG [BoardTest.java:50] after select : 
+[2014-06-19 21:00:36] DEBUG [BoardTest.java:47] after Save : 
+[2014-06-19 21:00:36] DEBUG [BoardTest.java:50] after select : 
+[2014-06-19 21:01:23] DEBUG [BoardTest.java:47] after Save : Board[id = 4, title = 테스트 데이터 타이틀, wDate = Thu Jun 19 21:01:23 GMT+09:00 2014, mDate = null]
+[2014-06-19 21:01:23] DEBUG [BoardTest.java:50] after select : Board[id = 4, title = 테스트 데이터 타이틀, wDate = Thu Jun 19 21:01:23 GMT+09:00 2014, mDate = null]
+[2014-06-19 21:12:22] DEBUG [BoardTest.java:62] board : Board[id = 1, title = 테스트 데이터 타이틀, wDate = 2014-06-19 20:58:17.375, mDate = null]
+[2014-06-19 21:12:22] DEBUG [BoardTest.java:62] board : Board[id = 2, title = 테스트 데이터 타이틀, wDate = 2014-06-19 20:59:19.443, mDate = null]
+[2014-06-19 21:12:22] DEBUG [BoardTest.java:62] board : Board[id = 3, title = 테스트 데이터 타이틀, wDate = 2014-06-19 21:00:36.664, mDate = null]
+[2014-06-19 21:12:22] DEBUG [BoardTest.java:62] board : Board[id = 4, title = 테스트 데이터 타이틀, wDate = 2014-06-19 21:01:23.171, mDate = null]
+[2014-06-19 21:13:51] DEBUG [DevelopmentModule.java:18] DevelopmentModule contributeApplicationDefaults
+[2014-06-19 21:13:56] DEBUG [ModuleImpl.java:253] Creating proxy for service TimingFilter
+[2014-06-19 21:13:57] DEBUG [LoggingInvokableWrapper.java:40] Constructing service implementation via org.hejin.newapp.web.services.AppModule.buildTimingFilter(Logger) (at AppModule.java:92)
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 2227 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 10 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 5 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 7 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 10 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 10 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 2 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 1 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 0 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 3 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 3 ms
+[2014-06-19 21:13:59] INFO  [AppModule.java:110] Request time: 4 ms

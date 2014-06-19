@@ -1,0 +1,20 @@
+<t:container xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd" xmlns:p="tapestry:parameter">
+
+<t:delegate to="activeBlock">
+</t:delegate>
+
+<t:block t:id="list">
+	<h3>List</h3>
+	<t:grid source="boards" row="board">
+	</t:grid>
+</t:block>
+
+<t:block t:id="detail">
+	Detail
+</t:block>
+
+<t:block t:id="write">
+	Write
+</t:block>
+
+</t:container>
