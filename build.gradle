@@ -82,6 +82,7 @@ dependencies {
 	compile	"org.slf4j:slf4j-log4j12:${slf4jVersion}"
 		
 	runtime	"com.h2database:h2:1.3.175"
+	compile	"commons-dbcp:commons-dbcp:1.4"
 }
 
 sourceSets {

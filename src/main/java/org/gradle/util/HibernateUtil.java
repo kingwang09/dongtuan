@@ -13,7 +13,8 @@ public class HibernateUtil {
 			Configuration configuration = new Configuration();
 			configuration.configure();
 			
-			ServiceRegistry serviceRegistry = new ServiceRegistryBuilder().applySettings(configuration.getProperties()).buildServiceRegistry();
+			ServiceRegistry serviceRegistry = new ServiceRegistryBuilder().applySettings(configuration.getProperties())
+					.buildServiceRegistry();
 			sessionFactory = configuration.buildSessionFactory(serviceRegistry);
 		}catch(Throwable t){
 			throw new ExceptionInInitializerError(t);

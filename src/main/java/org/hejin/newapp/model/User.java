@@ -1,7 +1,9 @@
-package org.gradle;
+package org.hejin.newapp.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
@@ -10,7 +12,7 @@ import javax.persistence.Table;
 public class User {
 	
 	@Id
-	@Column(name="user_id")
+	@GeneratedValue(strategy=GenerationType.AUTO)
 	private Integer id;
 	
 	@Column
@@ -54,10 +56,6 @@ public class User {
 	public Integer getId() {
 		return id;
 	}
-	public void setId(Integer id) {
-		this.id = id;
-	}
-	
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

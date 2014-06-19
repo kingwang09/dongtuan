@@ -1,7 +1,10 @@
 package org.gradle.test;
 
-import org.gradle.User;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
 import org.gradle.util.HibernateUtil;
+import org.hejin.newapp.model.User;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.junit.Test;
@@ -10,7 +13,7 @@ import org.junit.Test;
 public class UserTest {
 
 	
-	@Test
+	//@Test
 	public void testUserTest(){
 		Session session = HibernateUtil.getSessionFactory().openSession();
 		Transaction t = session.getTransaction();
@@ -37,5 +40,16 @@ public class UserTest {
 		System.out.println("-------------------------");
 		System.out.println(u2);
 		
+	}
+	@Test
+	public void dateTest(){
+		Calendar current = Calendar.getInstance();
+		Calendar target = Calendar.getInstance();
+		SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+		int currentMin = current.get(Calendar.MINUTE);
+		current.set(Calendar.MINUTE, currentMin-5);
+		
+		boolean result = target.after(current);
+		System.out.println(df.format(current.getTime())+" - "+df.format(target.getTime())+" : "+result);
 	}
 }
