@@ -28,17 +28,15 @@ public class FileSearch {
 	private Logger log = LoggerFactory.getLogger(getClass());
 	
 	public final static String LINE = "-------------------------------------------------------------------------------------";
-	public final static String START = "『";
-	public final static String END = "』";
+	public final static String START = "[";
+	public final static String END = "]";
 	public final static String PROP_EXT = ".properties";
 	
 	public final static String TARGET_RESOURCE_NAME = "Cygnus_Resource";
 	
 	public static List<File> properties = new ArrayList<File>();
 	public String[] excepts = { 
-				"log4j.properties", "config.properties"
-				, "cache.properties", "test-database.properties"
-				, "sample-config.properties", "gradle-wrapper.properties"
+				"log4j", "config", "cache", "test-database", "sample-config", "gradle-wrapper", "quartz"
 	};
 	
 	public String[] exceptsFolders = { 
@@ -46,6 +44,13 @@ public class FileSearch {
 	};
 	
 	public boolean isFiltered(String fileName){
+		//순수 파일 명으로 만들기 (1).
+		fileName = fileName.substring(0,fileName.lastIndexOf(PROP_EXT));
+		
+		//순수 파일 명으로 만들기 (2) ex) sample-config_ko -> sample-config
+		if(fileName.indexOf("_")!=-1){
+			fileName = fileName.substring(0,fileName.lastIndexOf("_"));
+		}
 		for(String filter : excepts){
 			if(fileName.equalsIgnoreCase(filter))
 				return false;
@@ -88,7 +93,7 @@ public class FileSearch {
 		}
 	}
 	
-	private void saveResourceFile(String filePath, Locale locale) throws IOException{
+	private void intergrationFile(String filePath, Locale locale) throws IOException{
 		BufferedWriter bw = null;
 		BufferedReader br = null;
 		String propertiesExt = PROP_EXT;
@@ -116,12 +121,14 @@ public class FileSearch {
 				bw.write(START); bw.newLine();
 				bw.write(propPath); bw.newLine();
 				bw.write(propName);bw.newLine();
+				bw.newLine();
 				bw.flush();
 				br = new BufferedReader(new FileReader(prop));
 				String line = br.readLine();
 				while(line !=null){
 					bw.write(line);
-					bw.newLine();
+					if(!"".equals(line))
+						bw.newLine();
 					line = br.readLine();
 				}
 				bw.write(END); bw.newLine();
@@ -145,8 +152,8 @@ public class FileSearch {
 		File root = new File(rootPath);
 		//1. Properties Search.
 		//2. write one Properties.
-		//findProperties(root, Locale.KOREAN);
-		//writeFile(writeFilePath, Locale.KOREAN);
+		findProperties(root, Locale.KOREAN);
+		intergrationFile(rootPath, Locale.KOREAN);
 		//log.debug("Search Properties Files : "+properties.size());
 		
 		//writeFile(filePath, null);
@@ -190,7 +197,9 @@ public class FileSearch {
 					line = br.readLine();
 					while(!END.equalsIgnoreCase(line)){
 						log.debug(line);
-						bw.write(line); bw.newLine();
+						bw.write(line); 
+						if(!"".equals(line))
+							bw.newLine();
 						line = br.readLine();
 					}
 					bw.flush();
