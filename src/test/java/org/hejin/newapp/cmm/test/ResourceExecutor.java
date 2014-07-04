@@ -231,7 +231,7 @@ public class ResourceExecutor {
 	 *    
 	 *   //해당 locale Properties파일을 하나로 통합.
 	 *   executor.intergrationFile(rootPath, locale);
-	 *  
+	 *   
 	 *  2) Import
 	 *   //통합된 Properties파일을 각각의 경로로 분할 시켜줌.
 	 *   executor.importResourceFile(rootPath, locale); 
@@ -247,8 +247,8 @@ public class ResourceExecutor {
 		File root = new File(rootPath);
 		
 		//Export
-		//executor.findProperties(root, locale);
-		//executor.intergrationFile(rootPath, locale);
+		executor.findProperties(root, locale);
+		executor.intergrationFile(rootPath, locale);
 		
 		//Import
 		//executor.importResourceFile(rootPath, locale);

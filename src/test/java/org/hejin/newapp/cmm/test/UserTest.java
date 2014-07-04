@@ -3,6 +3,7 @@ package org.hejin.newapp.cmm.test;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
+import org.hejin.newapp.model.Seller;
 import org.hejin.newapp.model.User;
 import org.hejin.newapp.util.HibernateUtil;
 import org.hibernate.Session;
@@ -19,7 +20,7 @@ public class UserTest {
 		Transaction t = session.getTransaction();
 		t.begin();
 		
-		User u = new User();
+		User u = new Seller();//new User();
 			u.setUserId("hejin");
 			u.setName("Hyung eun");
 			u.setAddress("Address");
@@ -41,7 +42,7 @@ public class UserTest {
 		System.out.println(u2);
 		
 	}
-	@Test
+	//@Test
 	public void dateTest(){
 		Calendar current = Calendar.getInstance();
 		Calendar target = Calendar.getInstance();
@@ -52,4 +53,5 @@ public class UserTest {
 		boolean result = target.after(current);
 		System.out.println(df.format(current.getTime())+" - "+df.format(target.getTime())+" : "+result);
 	}
+	
 }

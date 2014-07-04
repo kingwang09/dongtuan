@@ -152,8 +152,8 @@ public class FileSearch {
 		File root = new File(rootPath);
 		//1. Properties Search.
 		//2. write one Properties.
-		findProperties(root, Locale.KOREAN);
-		intergrationFile(rootPath, Locale.KOREAN);
+		findProperties(root, Locale.ENGLISH);
+		intergrationFile(rootPath, Locale.ENGLISH);
 		//log.debug("Search Properties Files : "+properties.size());
 		
 		//writeFile(filePath, null);
