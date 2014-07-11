@@ -1,0 +1,15 @@
+<html t:type="defaultLayout" title="About newapp"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>Simple Board Page</p>
+    
+    <t:grid source="books" row="book"
+    	reorder="year,type,bestBook,name,author,publisher">
+    	<p:bestBookCell>
+    		<t:if test="book.bestBook">
+    			&nbsp;<i class="fa fa-star"></i>
+    		</t:if>
+    	</p:bestBookCell>	
+    </t:grid>
+</html>

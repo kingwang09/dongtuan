@@ -86,6 +86,10 @@ dependencies {
 	compile	"commons-dbcp:commons-dbcp:1.4"
 	
 	compile	"org.projectlombok:lombok:1.12.2"
+	compile "org.apache.poi:poi:3.10-FINAL"
+	compile "org.apache.poi:poi-scratchpad:3.10-FINAL"
+	compile "org.apache.poi:poi-ooxml:3.10-FINAL"	
+	
 }
 
 sourceSets {
