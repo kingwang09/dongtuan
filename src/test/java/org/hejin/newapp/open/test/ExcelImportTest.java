@@ -36,7 +36,7 @@ import org.springframework.transaction.annotation.Transactional;
 @ActiveProfiles("development")
 @Transactional
 @TestExecutionListeners({ DependencyInjectionTestExecutionListener.class})
-public class ExcelExportTest {
+public class ExcelImportTest {
 	private Logger log = LoggerFactory.getLogger(getClass());
 	
 	@Autowired
