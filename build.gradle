@@ -42,7 +42,7 @@ repositories {
 
 ext {
 	javaVersion		= '1.6'
-	tapestryVersion	= '5.4-beta-5'
+	tapestryVersion	= '5.4-beta-10'
 	springVersion	= '3.2.6.RELEASE'
 	hibernateVersion= '4.2.12.Final'
 	slf4jVersion	= '1.7.2'
